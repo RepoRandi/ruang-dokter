@@ -1,0 +1,44 @@
+{
+  "data": [
+    // {
+    //   "id": 1,
+    //   "category": "dokter umum"
+    // },
+    // {
+    //   "id": 2,
+    //   "category": "dokter Anak"
+    // },
+    // {
+    //   "id": 3,
+    //   "category": "apoteker"
+    // },
+    // {
+    //   "id": 4,
+    //   "category": "psikiater"
+    // },
+    // {
+    //   "id": 5,
+    //   "category": "dokter umum"
+    // },
+    {
+      "id": 6,
+      "category": "love"
+    },
+    {
+      "id": 7,
+      "category": "love"
+    },
+    {
+      "id": 8,
+      "category": "love"
+    },
+    {
+      "id": 9,
+      "category": "love"
+    },
+    {
+      "id": 10,
+      "category": "love"
+    }
+  ]
+}
