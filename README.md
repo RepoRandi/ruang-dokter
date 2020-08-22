@@ -72,9 +72,9 @@
 
 ## Screenshot
 
-- Landing Page
+- Splash
 
-![screenshot-landingpage](https://user-images.githubusercontent.com/63716330/90948555-3b40f300-e46a-11ea-95d2-75aabd81faa7.png)
+![Screenshot_2020-08-21-12-39-03-082_com mychat](https://user-images.githubusercontent.com/63716330/90949077-5d893f80-e46f-11ea-86a2-15c291bc9fa9.jpg)
 
 - Details Page
 
