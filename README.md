@@ -109,6 +109,11 @@
     <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949713-b0b1c100-e474-11ea-88fd-4e80ee72e43e.jpg">
   </p>
   
+- Edit profile
+  <p>
+    <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949815-e30fee00-e475-11ea-8931-d3f2dfcfa2c6.jpg">
+  </p>
+  
 - List doctor
   <p>
     <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949729-ea82c780-e474-11ea-821f-fe53b017fd82.jpg">
