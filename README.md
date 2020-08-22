@@ -33,7 +33,6 @@
 - [x] Search
 - [x] Sort
 - [x] Pagination
-- [x] Cors
 
 ## Prerequisites
 
