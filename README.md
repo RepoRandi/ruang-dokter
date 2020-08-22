@@ -22,8 +22,7 @@
 
 ## Built-With
 
-- [React.js](http://reactjs.org/) - FrontEnd Library JavaScript
-- [Bootstrap](https://getbootstrap.com/) - Css Framework
+- [React Native](http://reactnative.org/) - JavaScript Mobile Framework
 - [Redux](https://redux.js.org/) - JavaScript library for managing application state
 
 ## Features
