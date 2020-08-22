@@ -6,7 +6,7 @@
 
 ![Build Project](https://github.com/vuejs-id/blog/workflows/Build%20Project/badge.svg) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fblog.vuejs.id%2F) ![Dependencies](https://img.shields.io/david/vuejs-id/blog.svg)
 
-> Create UI For staycation website
+> Create UI For Ruang-Dokter Mobile Apps
 
 ## :memo: Table Of Content
 
@@ -22,7 +22,7 @@
 
 ## Built-With
 
-- [React Native](http://reactnative.org/) - JavaScript Mobile Framework
+- [React Native](https://reactnative.dev/) - JavaScript Mobile Framework
 - [Redux](https://redux.js.org/) - JavaScript library for managing application state
 
 ## Features
@@ -48,9 +48,9 @@
 > Clone Repo And Install Package
 
 1. Clone this repository:
-   `git clone https://https://github.com/RepoRandi/staycation`
+   `git clone https://https://github.com/RepoRandi/Ruang-Dokter`
 2. Install depedencies:
-   - `cd staycation`
+   - `cd Ruang-Dokter`
    - `npm install`
 3. Start the server:
    - Open Terminal `npm start`
