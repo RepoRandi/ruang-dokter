@@ -70,27 +70,17 @@
 | `PATCH`  | Change Most of the data already exists on the server |
 | `DELETE` | Delete data that is already on the server            |
 
-## Screenshot
+## Screenshot screen
 
 - Splash
 <p>
   <img width="400" src="https://user-images.githubusercontent.com/63716330/90949077-5d893f80-e46f-11ea-86a2-15c291bc9fa9.jpg">
 </p>
 
-- Details Page
-
-![screenshot-details-page](https://user-images.githubusercontent.com/63716330/90948679-43e5f900-e46b-11ea-9434-f2bce6bba37b.png)
-
-- Checkout Page :
-
-  1. Booking information
-![screenshot-booking-information](https://user-images.githubusercontent.com/63716330/90948722-dbe3e280-e46b-11ea-880a-a0fa6de3c0f4.png)
-
-  2. Payment
-![screenshot-payment](https://user-images.githubusercontent.com/63716330/90948742-1ea5ba80-e46c-11ea-860b-96ca6e676d56.png)
-
-  3. Completed
-![screenshot-completed](https://user-images.githubusercontent.com/63716330/90948815-c4592980-e46c-11ea-9602-76a8fb127577.png)
+- Get started
+<p>
+  <img width="400" src="https://user-images.githubusercontent.com/63716330/90949143-18194200-e470-11ea-9a96-e3d813b7c4b3.jpg">
+</p>
 
 ## Author
 
