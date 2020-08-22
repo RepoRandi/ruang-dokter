@@ -68,6 +68,7 @@
 | `PATCH`  | Change Most of the data already exists on the server |
 | `DELETE` | Delete data that is already on the server            |
 
+
 ## Screenshot screen
 
 - Splash
@@ -115,12 +116,12 @@
   
 - Profile Doctor
   <p>
-    <img width="300" height="550" src="(https://user-images.githubusercontent.com/63716330/90949736-12722b00-e475-11ea-8663-5745c26f36f7.jpg">
+    <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949736-12722b00-e475-11ea-8663-5745c26f36f7.jpg">
   </p>
   
 - Chatting
   <p>
-    <img width="300" height="550" src="(https://user-images.githubusercontent.com/63716330/90949754-48171400-e475-11ea-80fa-f12b029eaafb.jpg">
+    <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949754-48171400-e475-11ea-80fa-f12b029eaafb.jpg">
   </p>
 
 ## Author
