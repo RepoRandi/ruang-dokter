@@ -73,13 +73,13 @@
 ## Screenshot screen
 
 - Splash
-<p>
-  <img width="400" src="https://user-images.githubusercontent.com/63716330/90949077-5d893f80-e46f-11ea-86a2-15c291bc9fa9.jpg">
-</p>
+  <p>
+    <img width="300" src="https://user-images.githubusercontent.com/63716330/90949077-5d893f80-e46f-11ea-86a2-15c291bc9fa9.jpg">
+  </p>
 
 - Get started
 <p>
-  <img width="400" src="https://user-images.githubusercontent.com/63716330/90949143-18194200-e470-11ea-9a96-e3d813b7c4b3.jpg">
+  <img width="300" src="https://user-images.githubusercontent.com/63716330/90949143-18194200-e470-11ea-9a96-e3d813b7c4b3.jpg">
 </p>
 
 ## Author
