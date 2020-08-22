@@ -73,8 +73,8 @@
 ## Screenshot
 
 - Splash
-<p >
-  <img width="600" src="https://user-images.githubusercontent.com/63716330/90949077-5d893f80-e46f-11ea-86a2-15c291bc9fa9.jpg">
+<p>
+  <img width="400" src="https://user-images.githubusercontent.com/63716330/90949077-5d893f80-e46f-11ea-86a2-15c291bc9fa9.jpg">
 </p>
 
 - Details Page
