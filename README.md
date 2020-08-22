@@ -80,10 +80,23 @@
     <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949143-18194200-e470-11ea-9a96-e3d813b7c4b3.jpg">
   </p>
   
- - Login
-   <p>
-     <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949392-ee611a80-e471-11ea-8e1c-8cc6ee80d20f.jpg">
-   </p>
+- Login
+  <p>
+    <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949392-ee611a80-e471-11ea-8e1c-8cc6ee80d20f.jpg">
+  </p>
+  
+- Register
+  <p>
+    <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949540-07b69680-e473-11ea-9005-b95765c70d62.jpg">
+  </p>
+  
+- Upload photo
+  <p>
+    <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949626-e609df00-e473-11ea-9487-db97488ec4b2.jpg">
+  </p>
+  <p>
+    <img width="300" height="550" src="https://user-images.githubusercontent.com/63716330/90949636-05087100-e474-11ea-9e73-c9846e4babc7.jpg">
+  </p>
 
 ## Author
 
