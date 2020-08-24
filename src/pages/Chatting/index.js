@@ -1,6 +1,6 @@
-import React, {useState, useEffect} from 'react';
-import {StyleSheet, Text, View, ScrollView} from 'react-native';
-import {Header, ChatItem, InputChat} from '../../components';
+import React, { useState, useEffect } from 'react';
+import { StyleSheet, Text, View, ScrollView } from 'react-native';
+import { Header, ChatItem, InputChat } from '../../components';
 import {
   fonts,
   colors,
@@ -9,9 +9,9 @@ import {
   getChatTime,
   setDateChat,
 } from '../../utils';
-import {Fire} from '../../configs';
+import { Fire } from '../../configs';
 
-const Chatting = ({navigation, route}) => {
+const Chatting = ({ navigation, route }) => {
   const dataDoctor = route.params;
   const [chatContent, setChatContent] = useState('');
   const [user, setUser] = useState({});
@@ -97,7 +97,7 @@ const Chatting = ({navigation, route}) => {
         type="dark-profile"
         title={dataDoctor.data.fullName}
         desc={dataDoctor.data.profession}
-        photo={{uri: dataDoctor.data.photo}}
+        photo={{ uri: dataDoctor.data.photo }}
         onPress={() => navigation.goBack()}
       />
       <View style={styles.content}>
@@ -114,7 +114,7 @@ const Chatting = ({navigation, route}) => {
                       isMe={isMe}
                       text={itemChat.data.chatContent}
                       date={itemChat.data.chatTime}
-                      photo={isMe ? null : {uri: dataDoctor.data.photo}}
+                      photo={isMe ? null : { uri: dataDoctor.data.photo }}
                     />
                   );
                 })}
@@ -127,6 +127,7 @@ const Chatting = ({navigation, route}) => {
         value={chatContent}
         onChangeText={(value) => setChatContent(value)}
         onPress={chatSend}
+        targetChat={dataDoctor}
       />
     </View>
   );
@@ -135,8 +136,8 @@ const Chatting = ({navigation, route}) => {
 export default Chatting;
 
 const styles = StyleSheet.create({
-  page: {backgroundColor: colors.white, flex: 1},
-  content: {flex: 1},
+  page: { backgroundColor: colors.white, flex: 1 },
+  content: { flex: 1 },
   chatDate: {
     fontSize: 11,
     fontFamily: fonts.primary.normal,
