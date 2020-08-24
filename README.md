@@ -24,6 +24,7 @@
 
 - [React Native](https://reactnative.dev/) - JavaScript Mobile Framework
 - [Redux](https://redux.js.org/) - JavaScript library for managing application state
+- [Firebase](https://firebase.google.com/) - Real time database
 
 ## Features
 
